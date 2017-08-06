@@ -2,11 +2,12 @@
 
 [![NPM version](http://img.shields.io/npm/v/async-request.svg?style=flat)](https://www.npmjs.org/package/async-request)
 [![Travis build status](http://img.shields.io/travis/gajus/async-request/master.svg?style=flat)](https://travis-ci.org/gajus/async-request)
-[![Dependency Status](https://david-dm.org/gajus/async-request.svg?style=flat)](https://david-dm.org/gajus/async-request)
+[![dependencies Status](https://david-dm.org/shikhir-arora/async-request/status.svg?style=flat-square)](https://david-dm.org/shikhir-arora/async-request)
+
 
 ## Deprecated
 
-Use either of the available and well maintained request libraries that implmenet Promise interface, e.g. https://github.com/joepie91/node-bhttp
+~~~Use either of the available and well maintained request libraries that implmenet Promise interface, e.g. https://github.com/joepie91/node-bhttp~~~
 
 ---
 
