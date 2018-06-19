@@ -36,6 +36,12 @@
     "lodash": "^4.17.4",
     "npm-check-updates": "^2.13.0",
     "request": "^2.83.0",
-    "tough-cookie": "^2.3.3"
-  }
+    "tough-cookie": "^2.3.3",
+    "snyk": "^1.83.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
