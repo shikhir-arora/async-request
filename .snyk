@@ -8,3 +8,24 @@ patch:
         patched: '2018-06-26T01:36:25.370Z'
     - npm-check-updates > npmi > npm > request > tunnel-agent:
         patched: '2018-06-26T01:36:25.370Z'
+    - npm-check-updates > npm > request > tunnel-agent:
+        patched: '2018-06-26T02:38:00.804Z'
+    - npm-check-updates > npmi > npm > request > tunnel-agent:
+        patched: '2018-06-26T02:38:00.804Z'
+  'npm:hoek:20180212':
+    - npm-check-updates > npm > request > hawk > hoek:
+        patched: '2018-06-26T02:38:00.804Z'
+    - npm-check-updates > npm > request > hawk > boom > hoek:
+        patched: '2018-06-26T02:38:00.804Z'
+    - npm-check-updates > npm > request > hawk > sntp > hoek:
+        patched: '2018-06-26T02:38:00.804Z'
+    - npm-check-updates > npm > request > hawk > cryptiles > boom > hoek:
+        patched: '2018-06-26T02:38:00.804Z'
+    - npm-check-updates > npmi > npm > request > hawk > hoek:
+        patched: '2018-06-26T02:38:00.804Z'
+    - npm-check-updates > npmi > npm > request > hawk > boom > hoek:
+        patched: '2018-06-26T02:38:00.804Z'
+    - npm-check-updates > npmi > npm > request > hawk > sntp > hoek:
+        patched: '2018-06-26T02:38:00.804Z'
+    - npm-check-updates > npmi > npm > request > hawk > cryptiles > boom > hoek:
+        patched: '2018-06-26T02:38:00.804Z'
