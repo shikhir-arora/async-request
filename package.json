@@ -37,11 +37,12 @@
     "npm-check-updates": "^2.14.2",
     "request": "^2.87.0",
     "tough-cookie": "^2.4.3",
-    "snyk": "^1.85.0"
+    "snyk": "^1.189.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "prepare": "npm run snyk-protect",
+    "prepublish": "npm run snyk-protect"
   },
   "snyk": true
 }
