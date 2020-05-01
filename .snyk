@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.12.0
+version: v1.14.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -29,3 +29,10 @@ patch:
         patched: '2018-06-26T02:38:00.804Z'
     - npm-check-updates > npmi > npm > request > hawk > cryptiles > boom > hoek:
         patched: '2018-06-26T02:38:00.804Z'
+  SNYK-JS-LODASH-567746:
+    - lodash:
+        patched: '2020-05-01T04:34:10.816Z'
+    - npm-check-updates > lodash:
+        patched: '2020-05-01T04:34:10.816Z'
+    - npm-check-updates > node-alias > lodash:
+        patched: '2020-05-01T04:34:10.816Z'
