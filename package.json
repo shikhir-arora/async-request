@@ -37,7 +37,7 @@
     "npm-check-updates": "^2.14.2",
     "request": "^2.87.0",
     "tough-cookie": "^2.4.3",
-    "snyk": "^1.85.0"
+    "snyk": "^1.316.1"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
